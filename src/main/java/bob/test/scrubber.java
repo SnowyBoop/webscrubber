@@ -1,8 +1,6 @@
 package bob.test;
 import java.util.LinkedHashSet;
 import java.net.*;
-import
-
 public class scrubber {
 
     public scrubber() {
@@ -36,7 +34,7 @@ public class scrubber {
 
 
 
-                            System.out.println(toGet);
+                            System.out.println(toScrub);
 
                         } catch(Exception e ) {
                             System.out.println(e);
