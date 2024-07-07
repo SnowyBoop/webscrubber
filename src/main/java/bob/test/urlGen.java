@@ -7,12 +7,6 @@ public class urlGen {
     public urlGen() {
     }
 
-    public URI genNewUrl(String parsePls) {
 
-        URI toReturn = URI.create(parsePls);
-
-        return toReturn;
-
-    }
 
 }
