@@ -34,10 +34,10 @@ public class scrubber {
 
                         connectionHandler newhandler = new connectionHandler(convToURL);
                         newhandler.start();
-                        try{TimeUnit.MILLISECONDS.sleep(100);}
-                            catch(Exception e) {
-                            System.out.println(e);
-                        }
+                        //try{TimeUnit.MILLISECONDS.sleep(100);}
+                          //  catch(Exception e) {
+                            //System.out.println(e);
+                        //}
 
 
                 }
